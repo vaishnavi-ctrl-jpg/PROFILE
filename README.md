@@ -26,12 +26,12 @@
 
 <br/>
 
-<!-- MAIN PROFILE HERO CARD (TWO-COLUMN RESPONSIVE LAYOUT) -->
+<!-- MAIN PROFILE HERO CARD WITH OFFICIAL MASCOT -->
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
-### › Hey there! I'm Vaishnavi 👋
+### › Hey there! I'm Vaishnavi ✦
 
 #### **React Developer & AI/DS Undergrad** *(Class of 2026)*
 
@@ -45,16 +45,19 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 
 ```gcode
 [SYSTEM WARNING]
-// Memory Thread: unstable
-// Self-state mismatch detected
+// Memory Thread: active
+// Mascot Companion: Y2K Star-Bunny online ✦
 // echo("who are you?") -> vaishnavi-ctrl-jpg
 [CRITICAL FAULT 078]: perception overflow
 [RECOVERY COMPLETE] > identity_restored()
 ```
 
   </td>
-  <td width="40%" align="center" valign="middle">
-    <img src="./assets/identity_poster.jpg" width="92%" style="border-radius: 14px; box-shadow: 0 6px 25px rgba(0, 240, 255, 0.2);" alt="Identity Loading Poster" />
+  <td width="42%" align="center" valign="middle">
+    <!-- OFFICIAL MASCOT: Y2K STAR-EYE BUNNY -->
+    <img src="./assets/mascot_star_bunny.png" width="85%" alt="Official Y2K Star Bunny Mascot" />
+    <br/>
+    <img src="./assets/identity_poster.jpg" width="85%" style="border-radius: 12px; margin-top: 10px;" alt="Identity Poster" />
   </td>
 </tr>
 </table>
@@ -141,5 +144,5 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 <br/>
 
 <div align="center">
-  <sub>Designed with 💜 for <b>vaishnavi-ctrl-jpg</b></sub>
+  <sub>✦ Crafted with 💜 for <b>vaishnavi-ctrl-jpg</b> ✦</sub>
 </div>
