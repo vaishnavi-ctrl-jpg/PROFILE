@@ -29,7 +29,7 @@
 <!-- MAIN PROFILE HERO CARD WITH OFFICIAL 3D MEW CAT MASCOT -->
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
 ### › Hey there! I'm Vaishnavi Kamthe ✦
 
@@ -55,7 +55,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 ```
 
   </td>
-  <td width="40%" align="center" valign="middle">
+  <td width="42%" align="center" valign="middle">
     <!-- OFFICIAL MASCOT: 3D CRT GLOWING MEW CAT (TRANSPARENT PNG) -->
     <img src="./assets/mascot_3d_mew.png" width="90%" alt="Official 3D CRT Mew Cat Mascot" />
     <br/>
@@ -155,39 +155,25 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## 🎖️ **Achievements & Certifications**
+## 📊 **Activity & Performance Diagnostics**
 
-- 🌟 **Top 50 Achiever - APAC Gen AI Academy 2026** *(Google)* — Ranked among top 50 participants across Asia-Pacific for Generative AI excellence.
-- 💯 **APAC GenAI Academy - 100% Score** *(Google | Mar 2026)* — Production GenAI systems training.
-- 🤖 **Build Agents with ADK** *(Google Cloud Skills Boost)* — Multi-agent system development certification.
-- 💻 **Google Developer Program Member** — Active member of Google developer ecosystem.
-- 🧠 **Elements of AI** *(University of Helsinki)* — Foundational AI principles & ethics.
+<div align="center">
+  <!-- CUSTOM PRETTY SVG STATS DASHBOARD (REPLACING BORING GENERIC STREAK CARD) -->
+  <img src="./assets/custom_stats_dashboard.svg" width="100%" alt="Vaishnavi Activity Diagnostics" style="border-radius: 12px;" />
+</div>
 
-<br/>
-
-<!-- SMOOTH GLOW WAVE DIVIDER -->
-<img src="./assets/smooth_glow_wave_1.png" width="100%" />
-
-<br/>
-
-## 📊 **GitHub Analytics & Visual Card**
+<br/><br/>
 
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-ctrl-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-ctrl-jpg&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./assets/scanline_card.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Scanline Visual Card" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-ctrl-jpg&theme=tokyonight&hide_border=true" width="96%" alt="GitHub Streak Stats" />
-</div>
 
 <br/>
 

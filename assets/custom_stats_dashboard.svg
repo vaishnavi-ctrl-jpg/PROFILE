@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Dark Gradient -->
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070314" />
+      <stop offset="50%" stop-color="#0E0520" />
+      <stop offset="100%" stop-color="#04010A" />
+    </linearGradient>
+
+    <!-- Neon Cyan & Magenta Glow -->
+    <linearGradient id="cyanMagenta" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="50%" stop-color="#9D4EDD" />
+      <stop offset="100%" stop-color="#FF007F" />
+    </linearGradient>
+
+    <filter id="neonBlur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <pattern id="scanlines" width="100" height="3" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#FFFFFF" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <!-- Frame Background -->
+  <rect width="900" height="280" rx="16" fill="url(#cardBg)" stroke="#301557" stroke-width="2" />
+  <rect width="900" height="280" rx="16" fill="url(#scanlines)" />
+
+  <!-- Outer Glow Border Path -->
+  <rect x="4" y="4" width="892" height="272" rx="14" fill="none" stroke="url(#cyanMagenta)" stroke-width="1.5" stroke-opacity="0.6" filter="url(#neonBlur)" />
+
+  <!-- Y2K 4-Point Stars Accents -->
+  <g fill="#00F0FF" opacity="0.8">
+    <path d="M 40 25 Q 40 35 30 35 Q 40 35 40 45 Q 40 35 50 35 Q 40 35 40 25 Z" />
+    <path d="M 860 25 Q 860 35 850 35 Q 860 35 860 45 Q 860 35 870 35 Q 860 35 860 25 Z" />
+    <path d="M 850 240 Q 850 250 840 250 Q 850 250 850 260 Q 850 250 860 250 Q 850 250 850 240 Z" fill="#FF007F" />
+  </g>
+
+  <!-- Top Title -->
+  <text x="450" y="45" font-family="'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="bold" fill="#00F0FF" letter-spacing="3" text-anchor="middle" filter="url(#neonBlur)">
+    ✦ VAISHNAVI KAMTHE // REAL-TIME ACTIVITY &amp; METRICS ✦
+  </text>
+
+  <!-- Divider Line inside SVG -->
+  <line x1="40" y1="65" x2="860" y2="65" stroke="#251244" stroke-width="1.5" />
+
+  <!-- 3 MAIN STATS COLUMNS -->
+  <!-- Column 1: Total Contributions -->
+  <g transform="translate(150, 160)">
+    <circle cx="0" cy="-40" r="32" fill="#0D0622" stroke="#00F0FF" stroke-width="2" filter="url(#neonBlur)" />
+    <text x="0" y="-33" font-family="Courier, monospace" font-size="22" fill="#00F0FF" font-weight="bold" text-anchor="middle">⚡</text>
+    <text x="0" y="15" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">276+</text>
+    <text x="0" y="40" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="bold" fill="#A0AEC0" text-anchor="middle">Total Contributions</text>
+    <text x="0" y="60" font-family="Courier, monospace" font-size="11" fill="#FF007F" text-anchor="middle">Nov 25 - Present</text>
+  </g>
+
+  <!-- Column Divider 1 -->
+  <line x1="300" y1="90" x2="300" y2="230" stroke="#251244" stroke-width="1.5" stroke-dasharray="4,4" />
+
+  <!-- Column 2: Current Streak -->
+  <g transform="translate(450, 160)">
+    <circle cx="0" cy="-40" r="36" fill="#0D0622" stroke="#FF007F" stroke-width="2.5" filter="url(#neonBlur)" />
+    <text x="0" y="-31" font-family="Courier, monospace" font-size="24" fill="#FF007F" font-weight="bold" text-anchor="middle">🔥</text>
+    <text x="0" y="15" font-family="'Segoe UI', sans-serif" font-size="36" font-weight="900" fill="#FF007F" text-anchor="middle" letter-spacing="1">3 DAYS</text>
+    <text x="0" y="40" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Current Active Streak</text>
+    <text x="0" y="60" font-family="Courier, monospace" font-size="11" fill="#00F0FF" text-anchor="middle">Jul 28 - Jul 30</text>
+  </g>
+
+  <!-- Column Divider 2 -->
+  <line x1="600" y1="90" x2="600" y2="230" stroke="#251244" stroke-width="1.5" stroke-dasharray="4,4" />
+
+  <!-- Column 3: Google APAC Rank -->
+  <g transform="translate(750, 160)">
+    <circle cx="0" cy="-40" r="32" fill="#0D0622" stroke="#9D4EDD" stroke-width="2" filter="url(#neonBlur)" />
+    <text x="0" y="-33" font-family="Courier, monospace" font-size="22" fill="#9D4EDD" font-weight="bold" text-anchor="middle">🏆</text>
+    <text x="0" y="15" font-family="'Segoe UI', sans-serif" font-size="34" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">TOP 50</text>
+    <text x="0" y="40" font-family="'Segoe UI', sans-serif" font-size="13" font-weight="bold" fill="#A0AEC0" text-anchor="middle">Google APAC GenAI</text>
+    <text x="0" y="60" font-family="Courier, monospace" font-size="11" fill="#9D4EDD" text-anchor="middle">Ranked #Top50 Asia-Pacific</text>
+  </g>
+</svg>
