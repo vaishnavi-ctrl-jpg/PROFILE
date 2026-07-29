@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP HEADER BANNER -->
-  <img src="./assets/header_banner.jpg" width="100%" alt="Vaishnavi Header Banner" style="border-radius: 10px;" />
+  <img src="./assets/header_banner.jpg" width="100%" alt="Vaishnavi Kamthe Header Banner" style="border-radius: 10px;" />
 
   <br/><br/>
 
@@ -10,11 +10,11 @@
     <img src="https://img.shields.io/badge/▲_PORTFOLIO-0D1117?style=for-the-badge&logoColor=white&color=0d1117" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/vaishnavi">
+  <a href="https://linkedin.com/in/vaishnavi-kamthe-b9417a2b4">
     <img src="https://img.shields.io/badge/in_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:vaishnavi@example.com">
+  <a href="mailto:vaish14072005@gmail.com">
     <img src="https://img.shields.io/badge/M_GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
@@ -29,23 +29,25 @@
 <!-- MAIN PROFILE HERO CARD WITH OFFICIAL 3D MEW CAT MASCOT -->
 <table width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
 
-### › Hey there! I'm Vaishnavi ✦
+### › Hey there! I'm Vaishnavi Kamthe ✦
 
-#### **React Developer & AI/DS Undergrad** *(Class of 2026)*
+#### **Forward Deployed AI Engineer | Multi-Agent Systems & ML Solutions**
+*BCA @ Amity University (Class of 2026) | Mumbai, India*
 
-I am deeply passionate about crafting minimalist, high-performance web applications, retro-cyber visual aesthetics, and building efficient automated workflows.
+🏆 **Top 50 Achiever - APAC Gen AI Academy 2026 (Google)**
 
-Currently, I'm focusing my energy on building privacy-centric platforms, local AI deployments, and orchestrating automated pipelines to automate myself out of manual labor.
+I specialize in architecting production-grade multi-agent systems, agentic workflows, and reinforcement learning applications. From rapid prototypes to enterprise-ready deployments, I build AI solutions with hierarchical delegation, self-reflection, and tool-calling orchestration.
 
-My technical playground revolves around **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, local AI deployments, and backend automation pipelines.
+Currently working as an **AI Intern at WeIntern** building real-world ML systems and legacy infrastructure integrations.
 
 <br/>
 
 ```gcode
 [SYSTEM WARNING]
 // Memory Thread: active
+// Identity: Vaishnavi Kamthe | Google APAC GenAI Top 50
 // Mascot Companion: 3D CRT Mew Cat online ✦
 // echo("who are you?") -> vaishnavi-ctrl-jpg
 [CRITICAL FAULT 078]: perception overflow
@@ -53,7 +55,7 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 ```
 
   </td>
-  <td width="42%" align="center" valign="middle">
+  <td width="40%" align="center" valign="middle">
     <!-- OFFICIAL MASCOT: 3D CRT GLOWING MEW CAT (TRANSPARENT PNG) -->
     <img src="./assets/mascot_3d_mew.png" width="90%" alt="Official 3D CRT Mew Cat Mascot" />
     <br/>
@@ -67,48 +69,99 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 
 <br/>
 
-## 🛠️ **Tech Stack & Tools**
+## 🏆 **Featured Projects**
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/vaishnavi-ctrl-jpg/hackathon-multiagent-assistant">Multi-Agent Productivity System</a></h3>
+      <p>Production-grade multi-agent platform with hierarchical delegation, real-time API orchestration, state optimization, and MCP integration.</p>
+      <sub><b>Tech:</b> Python, FastAPI, Gemini 2.0 Flash, ADK, MCP, Render</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/vaishnavi-ctrl-jpg/FLUXARENA">FluxArena</a></h3>
+      <p>Enterprise stadium intelligence platform orchestrating 100+ autonomous agents for real-time crowd decision-making and sub-second density inference.</p>
+      <sub><b>Tech:</b> Next.js 14, React, Firebase, Gemini 2.5 Flash API, GCP</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚨 <a href="https://github.com/vaishnavi-ctrl-jpg/MEDSENSE-AI">MedSense AI</a></h3>
+      <p>Emergency response decision agent using reinforcement learning (DQN, PPO) and POMDP-based state management with human-in-the-loop feedback.</p>
+      <sub><b>Tech:</b> PyTorch, Gymnasium, OpenAI Gym, POMDP, Reinforcement Learning</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 <a href="https://github.com/vaishnavi-ctrl-jpg/SIGNAL-X">Signal:X</a></h3>
+      <p>Intelligent traffic management system combining YOLOv8 object detection with self-reflecting multi-agent adaptive control (30% wait-time reduction).</p>
+      <sub><b>Tech:</b> Python, YOLOv8, Deep Learning, Real-Time Data Pipelines</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SMOOTH GLOW WAVE DIVIDER -->
+<img src="./assets/smooth_glow_wave_1.png" width="100%" />
+
+<br/>
+
+## 🛠️ **Technical Skills & Stack**
 
 <div align="center">
 
-  <!-- LANGUAGES -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  &nbsp;
+  <!-- LANGUAGES & MULTI-AGENT -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
   <br/><br/>
 
-  <!-- FRAMEWORKS & LIBRARIES -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <!-- AI & ML FRAMEWORKS -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 
   <br/><br/>
 
-  <!-- TOOLS & DATABASES -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <!-- AI APIS & CLOUD -->
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
+
+<br/>
+
+<!-- SMOOTH GLOW WAVE DIVIDER -->
+<img src="./assets/smooth_glow_wave_1.png" width="100%" />
+
+<br/>
+
+## 🎖️ **Achievements & Certifications**
+
+- 🌟 **Top 50 Achiever - APAC Gen AI Academy 2026** *(Google)* — Ranked among top 50 participants across Asia-Pacific for Generative AI excellence.
+- 💯 **APAC GenAI Academy - 100% Score** *(Google | Mar 2026)* — Production GenAI systems training.
+- 🤖 **Build Agents with ADK** *(Google Cloud Skills Boost)* — Multi-agent system development certification.
+- 💻 **Google Developer Program Member** — Active member of Google developer ecosystem.
+- 🧠 **Elements of AI** *(University of Helsinki)* — Foundational AI principles & ethics.
 
 <br/>
 
@@ -144,5 +197,5 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 <br/>
 
 <div align="center">
-  <sub>✦ Crafted with 💜 for <b>vaishnavi-ctrl-jpg</b> ✦</sub>
+  <sub>✦ Designed with 💜 for <b>Vaishnavi Kamthe (vaishnavi-ctrl-jpg)</b> ✦</sub>
 </div>
