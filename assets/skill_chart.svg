@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <defs>
+    <!-- Dark Cyber Glitch Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080314" />
+      <stop offset="50%" stop-color="#120826" />
+      <stop offset="100%" stop-color="#05010a" />
+    </linearGradient>
+
+    <!-- Glowing Cyan Gradient -->
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#7000FF" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Glowing Pink Gradient -->
+    <linearGradient id="pinkGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF007F" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#7928CA" stop-opacity="0.9" />
+    </linearGradient>
+
+    <!-- Filter Glow -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- CRT Scanline Pattern -->
+    <pattern id="scanlines" width="100" height="4" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="100" y2="0" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1.5" />
+    </pattern>
+  </defs>
+
+  <!-- Card Outer Frame -->
+  <rect width="800" height="400" rx="16" fill="url(#bgGrad)" stroke="#33185c" stroke-width="2" />
+  <rect width="800" height="400" rx="16" fill="url(#scanlines)" />
+
+  <!-- Corner Brackets (Cyber aesthetic) -->
+  <path d="M 20 40 L 20 20 L 40 20" stroke="#FF007F" stroke-width="3" fill="none" filter="url(#neonGlow)" />
+  <path d="M 780 40 L 780 20 L 760 20" stroke="#00F0FF" stroke-width="3" fill="none" filter="url(#neonGlow)" />
+  <path d="M 20 360 L 20 380 L 40 380" stroke="#00F0FF" stroke-width="3" fill="none" filter="url(#neonGlow)" />
+  <path d="M 780 360 L 780 380 L 760 380" stroke="#FF007F" stroke-width="3" fill="none" filter="url(#neonGlow)" />
+
+  <!-- Header Text inside SVG -->
+  <text x="40" y="55" font-family="Courier, monospace" font-size="14" fill="#FF007F" font-weight="bold" letter-spacing="2">
+    [SYSTEM_DIAGNOSTICS] // CORE_SKILL_MATRIX
+  </text>
+  <text x="40" y="75" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" fill="#FFFFFF" font-weight="800">
+    Technical Proficiency &amp; Focus Spectrum
+  </text>
+
+  <!-- RADAR GRAPH CENTER AT (240, 240) -->
+  <g transform="translate(220, 240)">
+    <!-- Concentric Hexagons -->
+    <polygon points="0,-120 104,-60 104,60 0,120 -104,60 -104,-60" fill="none" stroke="#251347" stroke-width="1.5" />
+    <polygon points="0,-90 78,-45 78,45 0,90 -78,45 -78,-45" fill="none" stroke="#251347" stroke-width="1.5" />
+    <polygon points="0,-60 52,-30 52,30 0,60 -52,30 -52,-30" fill="none" stroke="#251347" stroke-width="1.5" />
+    <polygon points="0,-30 26,-15 26,15 0,30 -26,15 -26,-15" fill="none" stroke="#251347" stroke-width="1.5" />
+
+    <!-- Axis Lines -->
+    <line x1="0" y1="-120" x2="0" y2="120" stroke="#3d216d" stroke-width="1" stroke-dasharray="3,3" />
+    <line x1="-104" y1="-60" x2="104" y2="60" stroke="#3d216d" stroke-width="1" stroke-dasharray="3,3" />
+    <line x1="-104" y1="60" x2="104" y2="-60" stroke="#3d216d" stroke-width="1" stroke-dasharray="3,3" />
+
+    <!-- Skill Data Polygon 1 (Pink fill) -->
+    <polygon points="0,-108 93,-40 88,51 0,96 -83,48 -94,-54" fill="url(#pinkGlow)" fill-opacity="0.35" stroke="#FF007F" stroke-width="3" filter="url(#neonGlow)" />
+
+    <!-- Skill Points -->
+    <circle cx="0" cy="-108" r="5" fill="#FF007F" filter="url(#neonGlow)" />
+    <circle cx="93" cy="-40" r="5" fill="#FF007F" filter="url(#neonGlow)" />
+    <circle cx="88" cy="51" r="5" fill="#00F0FF" filter="url(#neonGlow)" />
+    <circle cx="0" cy="96" r="5" fill="#00F0FF" filter="url(#neonGlow)" />
+    <circle cx="-83" cy="48" r="5" fill="#00F0FF" filter="url(#neonGlow)" />
+    <circle cx="-94" cy="-54" r="5" fill="#FF007F" filter="url(#neonGlow)" />
+
+    <!-- Labels -->
+    <text x="0" y="-130" font-family="'Segoe UI', sans-serif" font-size="12" fill="#FF77C2" text-anchor="middle" font-weight="bold">React / Next.js (95%)</text>
+    <text x="120" y="-45" font-family="'Segoe UI', sans-serif" font-size="12" fill="#FF77C2" text-anchor="start" font-weight="bold">AI / DS (90%)</text>
+    <text x="115" y="60" font-family="'Segoe UI', sans-serif" font-size="12" fill="#00F0FF" text-anchor="start" font-weight="bold">TypeScript (85%)</text>
+    <text x="0" y="140" font-family="'Segoe UI', sans-serif" font-size="12" fill="#00F0FF" text-anchor="middle" font-weight="bold">Python (88%)</text>
+    <text x="-115" y="60" font-family="'Segoe UI', sans-serif" font-size="12" fill="#00F0FF" text-anchor="end" font-weight="bold">Automations (82%)</text>
+    <text x="-120" y="-45" font-family="'Segoe UI', sans-serif" font-size="12" fill="#FF77C2" text-anchor="end" font-weight="bold">UI/UX Aesthetics (92%)</text>
+  </g>
+
+  <!-- RIGHT SIDE PROGRESS BARS -->
+  <g transform="translate(500, 110)">
+    <!-- Skill Item 1 -->
+    <text x="0" y="20" font-family="'Segoe UI', sans-serif" font-size="13" fill="#E2E8F0" font-weight="bold">Frontend &amp; Component Design</text>
+    <text x="240" y="20" font-family="Courier, monospace" font-size="12" fill="#FF007F" font-weight="bold">95%</text>
+    <rect x="0" y="30" width="250" height="8" rx="4" fill="#1C0D38" />
+    <rect x="0" y="30" width="237.5" height="8" rx="4" fill="url(#pinkGlow)" filter="url(#neonGlow)" />
+
+    <!-- Skill Item 2 -->
+    <text x="0" y="70" font-family="'Segoe UI', sans-serif" font-size="13" fill="#E2E8F0" font-weight="bold">AI Workflows &amp; LLM Orchestration</text>
+    <text x="240" y="70" font-family="Courier, monospace" font-size="12" fill="#00F0FF" font-weight="bold">90%</text>
+    <rect x="0" y="80" width="250" height="8" rx="4" fill="#1C0D38" />
+    <rect x="0" y="80" width="225" height="8" rx="4" fill="url(#cyanGlow)" filter="url(#neonGlow)" />
+
+    <!-- Skill Item 3 -->
+    <text x="0" y="120" font-family="'Segoe UI', sans-serif" font-size="13" fill="#E2E8F0" font-weight="bold">Full-Stack &amp; API Systems</text>
+    <text x="240" y="120" font-family="Courier, monospace" font-size="12" fill="#FF007F" font-weight="bold">88%</text>
+    <rect x="0" y="130" width="250" height="8" rx="4" fill="#1C0D38" />
+    <rect x="0" y="130" width="220" height="8" rx="4" fill="url(#pinkGlow)" filter="url(#neonGlow)" />
+
+    <!-- Skill Item 4 -->
+    <text x="0" y="170" font-family="'Segoe UI', sans-serif" font-size="13" fill="#E2E8F0" font-weight="bold">Cyber Aesthetics &amp; Glitch Design</text>
+    <text x="240" y="170" font-family="Courier, monospace" font-size="12" fill="#00F0FF" font-weight="bold">99%</text>
+    <rect x="0" y="180" width="250" height="8" rx="4" fill="#1C0D38" />
+    <rect x="0" y="180" width="247.5" height="8" rx="4" fill="url(#cyanGlow)" filter="url(#neonGlow)" />
+  </g>
+</svg>
