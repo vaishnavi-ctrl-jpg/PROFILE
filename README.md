@@ -155,19 +155,12 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## 📊 **Activity & Performance Diagnostics**
-
-<div align="center">
-  <!-- CUSTOM PRETTY SVG STATS DASHBOARD (REPLACING BORING GENERIC STREAK CARD) -->
-  <img src="./assets/custom_stats_dashboard.svg" width="100%" alt="Vaishnavi Activity Diagnostics" style="border-radius: 12px;" />
-</div>
-
-<br/><br/>
+## 📊 **GitHub Analytics & Visual Card**
 
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-ctrl-jpg&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-ctrl-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./assets/scanline_card.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Scanline Visual Card" />
