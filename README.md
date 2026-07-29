@@ -26,7 +26,7 @@
 
 <br/>
 
-<!-- MAIN PROFILE HERO CARD WITH OFFICIAL MASCOT -->
+<!-- MAIN PROFILE HERO CARD WITH OFFICIAL 3D MEW CAT MASCOT -->
 <table width="100%">
   <tr>
     <td width="58%" valign="top">
@@ -46,7 +46,7 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 ```gcode
 [SYSTEM WARNING]
 // Memory Thread: active
-// Mascot Companion: Y2K Star-Bunny online ✦
+// Mascot Companion: 3D CRT Mew Cat online ✦
 // echo("who are you?") -> vaishnavi-ctrl-jpg
 [CRITICAL FAULT 078]: perception overflow
 [RECOVERY COMPLETE] > identity_restored()
@@ -54,8 +54,8 @@ My technical playground revolves around **React**, **Next.js**, **TypeScript**, 
 
   </td>
   <td width="42%" align="center" valign="middle">
-    <!-- OFFICIAL MASCOT: Y2K STAR-EYE BUNNY -->
-    <img src="./assets/mascot_star_bunny.png" width="85%" alt="Official Y2K Star Bunny Mascot" />
+    <!-- OFFICIAL MASCOT: 3D CRT GLOWING MEW CAT (TRANSPARENT PNG) -->
+    <img src="./assets/mascot_3d_mew.png" width="90%" alt="Official 3D CRT Mew Cat Mascot" />
     <br/>
     <img src="./assets/identity_poster.jpg" width="85%" style="border-radius: 12px; margin-top: 10px;" alt="Identity Poster" />
   </td>
