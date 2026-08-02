@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="100%" height="100%">
   <defs>
-    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#FFC0CB" />
       <stop offset="50%" stop-color="#E8D5FF" />
       <stop offset="100%" stop-color="#C084FC" />
@@ -9,9 +9,9 @@
       .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: url(#headerGrad); }
       .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
       .bold { font-weight: 700; fill: #f0f6fc; }
-      .icon { fill: #FFC0CB; }
-      .rank-title { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFC0CB; }
-      .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E8D5FF; }
+      .icon { fill: url(#headerGrad); }
+      .rank-title { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: url(#headerGrad); }
+      .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFFFFF; }
     </style>
   </defs>
   <rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
