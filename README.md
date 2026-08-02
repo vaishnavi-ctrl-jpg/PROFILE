@@ -7,7 +7,7 @@
 
   <!-- NAVIGATION BUTTONS / BADGES -->
   <a href="https://github.com/vaishnavi-ctrl-jpg">
-    <img src="https://img.shields.io/badge/▲_PORTFOLIO-0D1117?style=for-the-badge&logoColor=white&color=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/✦_PORTFOLIO-0D1117?style=for-the-badge&logoColor=white&color=0d1117" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/vaishnavi-kamthe-b9417a2b4">
@@ -36,7 +36,7 @@
 #### **Forward Deployed AI Engineer | Multi-Agent Systems & ML Solutions**
 *BCA @ Amity University (Class of 2026) | Mumbai, India*
 
-🏆 **Top 50 Achiever - APAC Gen AI Academy 2026 (Google)**
+🌟 **Top 50 Achiever - APAC Gen AI Academy 2026 (Google)**
 
 I specialize in architecting production-grade multi-agent systems, agentic workflows, and reinforcement learning applications. From rapid prototypes to enterprise-ready deployments, I build AI solutions with hierarchical delegation, self-reflection, and tool-calling orchestration.
 
@@ -69,12 +69,12 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## 🏆 **Featured Projects**
+## 🔮 **Featured AI & Production Systems**
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/vaishnavi-ctrl-jpg/hackathon-multiagent-assistant">Multi-Agent Productivity System</a></h3>
+      <h3>👾 <a href="https://github.com/vaishnavi-ctrl-jpg/hackathon-multiagent-assistant">Multi-Agent Productivity System</a></h3>
       <p>Production-grade multi-agent platform with hierarchical delegation, real-time API orchestration, state optimization, and MCP integration.</p>
       <sub><b>Tech:</b> Python, FastAPI, Gemini 2.0 Flash, ADK, MCP, Render</sub>
     </td>
@@ -86,12 +86,12 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚨 <a href="https://github.com/vaishnavi-ctrl-jpg/MEDSENSE-AI">MedSense AI</a></h3>
+      <h3>🌌 <a href="https://github.com/vaishnavi-ctrl-jpg/MEDSENSE-AI">MedSense AI</a></h3>
       <p>Emergency response decision agent using reinforcement learning (DQN, PPO) and POMDP-based state management with human-in-the-loop feedback.</p>
       <sub><b>Tech:</b> PyTorch, Gymnasium, OpenAI Gym, POMDP, Reinforcement Learning</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🚦 <a href="https://github.com/vaishnavi-ctrl-jpg/SIGNAL-X">Signal:X</a></h3>
+      <h3>✦ <a href="https://github.com/vaishnavi-ctrl-jpg/SIGNAL-X">Signal:X</a></h3>
       <p>Intelligent traffic management system combining YOLOv8 object detection with self-reflecting multi-agent adaptive control (30% wait-time reduction).</p>
       <sub><b>Tech:</b> Python, YOLOv8, Deep Learning, Real-Time Data Pipelines</sub>
     </td>
@@ -105,7 +105,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## 🛠️ **Technical Skills & Stack**
+## ✦ **Technical Skills & Stack**
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## 📊 **GitHub Analytics & Visual Card**
+## ⚡ **GitHub Analytics & Visual Card**
 
 <table width="100%">
   <tr>
@@ -177,5 +177,5 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 <br/>
 
 <div align="center">
-  <sub>✦ Designed with 💜 for <b>Vaishnavi Kamthe (vaishnavi-ctrl-jpg)</b> ✦</sub>
+  <sub>✦ Crafted with ⚡ &amp; CRT Glitch Aesthetics for <b>Vaishnavi Kamthe (vaishnavi-ctrl-jpg)</b> ✦</sub>
 </div>
