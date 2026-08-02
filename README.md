@@ -160,7 +160,8 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 <table width="100%">
   <tr>
     <td width="55%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-ctrl-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <!-- RELIABLE SELF-HOSTED FAST-LOADING STATS CARD -->
+      <img src="./assets/github_stats.svg" width="100%" alt="Vaishnavi's GitHub Stats" />
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./assets/scanline_card.jpg" width="90%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Scanline Visual Card" />
