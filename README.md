@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- TOP HEADER BANNER (CACHE BUSTER ADDED) -->
-  <img src="./assets/header_banner.jpg?v=2" width="100%" alt="Vaishnavi Kamthe Header Banner" style="border-radius: 10px;" />
+  <!-- TOP HEADER BANNER (NEW UNIQUE PATH FOR INSTANT CDN REFRESH) -->
+  <img src="./assets/header_banner_glitter_italic.jpg" width="100%" alt="Vaishnavi Kamthe Header Banner" style="border-radius: 10px;" />
 
   <br/><br/>
 
