@@ -5,9 +5,9 @@
 
   <br/><br/>
 
-  <!-- NAVIGATION BUTTONS / BADGES -->
+  <!-- NAVIGATION BUTTONS / BADGES WITH CUSTOM EMOJI ICONS -->
   <a href="https://github.com/vaishnavi-ctrl-jpg">
-    <img src="https://img.shields.io/badge/✦_PORTFOLIO-0D1117?style=for-the-badge&logoColor=white&color=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logoColor=white&color=0d1117" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/vaishnavi-kamthe-b9417a2b4">
@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/📄_RESUME-21262D?style=for-the-badge&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/RESUME-21262D?style=for-the-badge&logoColor=white" alt="Resume" />
   </a>
 
 </div>
@@ -31,12 +31,12 @@
   <tr>
     <td width="58%" valign="top">
 
-### › Hey there! I'm Vaishnavi Kamthe ✦
+### › Hey there! I'm Vaishnavi Kamthe <img src="./assets/emojis/aurora_sparkle.png" width="26" valign="middle" />
 
 #### **Forward Deployed AI Engineer | Multi-Agent Systems & ML Solutions**
 *BCA @ Amity University (Class of 2026) | Mumbai, India*
 
-🌟 **Top 50 Achiever - APAC Gen AI Academy 2026 (Google)**
+<img src="./assets/emojis/neon_gradient_star.png" width="22" valign="middle" /> **Top 50 Achiever - APAC Gen AI Academy 2026 (Google)**
 
 I specialize in architecting production-grade multi-agent systems, agentic workflows, and reinforcement learning applications. From rapid prototypes to enterprise-ready deployments, I build AI solutions with hierarchical delegation, self-reflection, and tool-calling orchestration.
 
@@ -69,29 +69,29 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## 🔮 **Featured AI & Production Systems**
+## <img src="./assets/emojis/nebula_orb.png" width="28" valign="middle" /> **Featured AI & Production Systems**
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👾 <a href="https://github.com/vaishnavi-ctrl-jpg/hackathon-multiagent-assistant">Multi-Agent Productivity System</a></h3>
+      <h3><img src="./assets/emojis/cyber_voxel_alien.png" width="24" valign="middle" /> <a href="https://github.com/vaishnavi-ctrl-jpg/hackathon-multiagent-assistant">Multi-Agent Productivity System</a></h3>
       <p>Production-grade multi-agent platform with hierarchical delegation, real-time API orchestration, state optimization, and MCP integration.</p>
       <sub><b>Tech:</b> Python, FastAPI, Gemini 2.0 Flash, ADK, MCP, Render</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/vaishnavi-ctrl-jpg/FLUXARENA">FluxArena</a></h3>
+      <h3><img src="./assets/emojis/plasma_bolt.png" width="22" valign="middle" /> <a href="https://github.com/vaishnavi-ctrl-jpg/FLUXARENA">FluxArena</a></h3>
       <p>Enterprise stadium intelligence platform orchestrating 100+ autonomous agents for real-time crowd decision-making and sub-second density inference.</p>
       <sub><b>Tech:</b> Next.js 14, React, Firebase, Gemini 2.5 Flash API, GCP</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/vaishnavi-ctrl-jpg/MEDSENSE-AI">MedSense AI</a></h3>
+      <h3><img src="./assets/emojis/glitch_galaxy_swirl.png" width="24" valign="middle" /> <a href="https://github.com/vaishnavi-ctrl-jpg/MEDSENSE-AI">MedSense AI</a></h3>
       <p>Emergency response decision agent using reinforcement learning (DQN, PPO) and POMDP-based state management with human-in-the-loop feedback.</p>
       <sub><b>Tech:</b> PyTorch, Gymnasium, OpenAI Gym, POMDP, Reinforcement Learning</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>✦ <a href="https://github.com/vaishnavi-ctrl-jpg/SIGNAL-X">Signal:X</a></h3>
+      <h3><img src="./assets/emojis/neon_triangle.png" width="22" valign="middle" /> <a href="https://github.com/vaishnavi-ctrl-jpg/SIGNAL-X">Signal:X</a></h3>
       <p>Intelligent traffic management system combining YOLOv8 object detection with self-reflecting multi-agent adaptive control (30% wait-time reduction).</p>
       <sub><b>Tech:</b> Python, YOLOv8, Deep Learning, Real-Time Data Pipelines</sub>
     </td>
@@ -105,7 +105,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## ✦ **Technical Skills & Stack**
+## <img src="./assets/emojis/neon_tool_glitch.png" width="26" valign="middle" /> **Technical Skills & Stack**
 
 <div align="center">
 
@@ -155,7 +155,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 
 <br/>
 
-## ⚡ **GitHub Analytics & Visual Card**
+## <img src="./assets/emojis/plasma_bolt.png" width="24" valign="middle" /> **GitHub Analytics & Visual Card**
 
 <table width="100%">
   <tr>
@@ -177,5 +177,5 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
 <br/>
 
 <div align="center">
-  <sub>✦ Crafted with ⚡ &amp; CRT Glitch Aesthetics for <b>Vaishnavi Kamthe (vaishnavi-ctrl-jpg)</b> ✦</sub>
+  <sub><img src="./assets/emojis/aurora_sparkle.png" width="16" valign="middle" /> Crafted with ⚡ &amp; CRT Glitch Aesthetics for <b>Vaishnavi Kamthe (vaishnavi-ctrl-jpg)</b> <img src="./assets/emojis/aurora_sparkle.png" width="16" valign="middle" /></sub>
 </div>
