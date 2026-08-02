@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="mailto:vaish14072005@gmail.com">
-    <img src="https://img.shields.io/badge/M_GMAIL-FF007F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/M_GMAIL-FF9EAA?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="#">
@@ -123,7 +123,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
   <br/><br/>
 
   <!-- AI & ML FRAMEWORKS -->
-  <img src="https://img.shields.io/badge/PyTorch-FF007F?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-FF9EAA?style=for-the-badge&logo=pytorch&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   &nbsp;
@@ -144,7 +144,7 @@ Currently working as an **AI Intern at WeIntern** building real-world ML systems
   &nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Git-FF007F?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF9EAA?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
