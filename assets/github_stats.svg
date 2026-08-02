@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 195" width="100%" height="100%">
   <defs>
     <style>
-      .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00F0FF; }
+      .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E0F2FE; }
       .stat { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
       .bold { font-weight: 700; fill: #f0f6fc; }
-      .icon { fill: #FF007F; }
-      .rank-title { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FF007F; }
-      .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #d2a8ff; }
+      .icon { fill: #FFC0CB; }
+      .rank-title { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FFC0CB; }
+      .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FBCFE8; }
     </style>
   </defs>
   <rect width="495" height="195" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
@@ -40,7 +40,7 @@
 
     <!-- Global Rank Badge -->
     <g transform="translate(320, 20)">
-      <circle cx="50" cy="30" r="40" fill="#161b22" stroke="#FF007F" stroke-width="2"/>
+      <circle cx="50" cy="30" r="40" fill="#161b22" stroke="#FFC0CB" stroke-width="2"/>
       <text x="50" y="24" class="rank-title" text-anchor="middle">GRADE</text>
       <text x="50" y="48" class="rank-text" text-anchor="middle">A+</text>
     </g>
